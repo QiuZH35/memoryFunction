@@ -1,0 +1,4 @@
+﻿  memccpy.c
+D:\vs2017Data\23.字符串面试题\memccpy\memccpy\memccpy.c(14,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\vs2017Data\23.字符串面试题\memccpy\memccpy\memccpy.c(37,1): warning C4090: “初始化”: 不同的“const”限定符
+  memccpy.vcxproj -> D:\vs2017Data\23.字符串面试题\memccpy\x64\Debug\memccpy.exe

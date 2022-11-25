@@ -1,0 +1,5 @@
+﻿  memicmp.c
+D:\vs2017Data\23.字符串面试题\memicmp\memicmp\memicmp.c(12,14): warning C4047: “return”:“int”与“void *”的间接级别不同
+D:\vs2017Data\23.字符串面试题\memicmp\memicmp\memicmp.c(18,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\vs2017Data\23.字符串面试题\memicmp\memicmp\memicmp.c(19,1): warning C4090: “初始化”: 不同的“const”限定符
+  memicmp.vcxproj -> D:\vs2017Data\23.字符串面试题\memicmp\x64\Debug\memicmp.exe

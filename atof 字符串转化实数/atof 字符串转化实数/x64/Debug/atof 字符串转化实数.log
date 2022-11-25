@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\vs2017Data\23.字符串面试题\atof 字符串转化实数\atof 字符串转化实数\源.cpp(29,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  atof 字符串转化实数.vcxproj -> D:\vs2017Data\23.字符串面试题\atof 字符串转化实数\x64\Debug\atof 字符串转化实数.exe
